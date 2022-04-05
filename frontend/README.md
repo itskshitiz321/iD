@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/openstreetmap/iD.svg?branch=master)](https://travis-ci.org/openstreetmap/iD)
 [![Greenkeeper badge](https://badges.greenkeeper.io/openstreetmap/iD.svg)](https://greenkeeper.io/)
 
-:warning: ai branch clones https://github.com/openstreetmap/iD version 2.17.2
+:warning: This ai branch clones [OpenstreetMap Id](https://github.com/openstreetmap/iD) version 2.17.2
 
 Tested with node version : 14.19.1
 
@@ -40,7 +40,7 @@ Come on in, the water's lovely. More help? Ping `bhousel` or `quincylvania` on:
 
 ## Prerequisites
 
-* [Node.js](https://nodejs.org/) version 14 or newer ( Tested with 14.19.1 )
+* [Node.js](https://nodejs.org/) Tested with v14.19.1 
 * [`git`](https://www.atlassian.com/git/tutorials/install-git/) for your platform
   * Note for Windows users:
     * Edit `$HOME\.gitconfig`:<br/>
