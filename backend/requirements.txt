@@ -1,0 +1,7 @@
+django
+GDAL==3.4.1
+psycopg2
+djangorestframework
+djangorestframework-gis
+django-leaflet
+django-rest-swagger
