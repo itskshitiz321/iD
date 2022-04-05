@@ -40,7 +40,7 @@ Come on in, the water's lovely. More help? Ping `bhousel` or `quincylvania` on:
 
 ## Prerequisites
 
-* [Node.js](https://nodejs.org/) version 10 or newer
+* [Node.js](https://nodejs.org/) version 14 or newer ( Tested with 14.19.1 )
 * [`git`](https://www.atlassian.com/git/tutorials/install-git/) for your platform
   * Note for Windows users:
     * Edit `$HOME\.gitconfig`:<br/>
