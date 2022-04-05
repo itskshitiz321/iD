@@ -38,3 +38,7 @@ backend/core/management/commands/__pycache__
 backend/core/migrations
 backend/media
 backend/data/*
+node_modules
+land.html
+img
+dist
